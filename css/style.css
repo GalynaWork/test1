@@ -2170,7 +2170,9 @@ dd .video {
 
 .roadmap_inner .map_1 .text {
   width: 258px;
-  left: 42px; }
+  left: 42px;
+  text-align: left;
+}
 
 .kmts.roadmap .map_4 .road:before {
   content: '';
